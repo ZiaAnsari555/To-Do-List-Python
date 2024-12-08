@@ -3,7 +3,7 @@
 
 ---
 
-## 5. **To-Do List**
+## **To-Do List**
 
 ```markdown
 # To-Do List
